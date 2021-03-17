@@ -144,5 +144,5 @@ def main():
 
 if __name__ == "__main__":
     ## Run instuction or command
-    # python3 -m stock_exchange input_trades.txt
+    # python3 -m stock_exchange_system input_trades.txt
     main()

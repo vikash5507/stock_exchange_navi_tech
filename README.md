@@ -52,4 +52,6 @@ You can read build instructions here - https://github.com/geektrust/coding-probl
 **Command to run program**
 ```
 python3 -m stock_exchange input_trades.txt
+OR
+python3 -m stock_exchange_system input_trades.txt
 ```
